@@ -1,2 +1,4 @@
 moviepy==0.2.3.2
 requests==2.18.4
+python-dotenv==1.0.1
+yt-dlp>=2024.10.07
