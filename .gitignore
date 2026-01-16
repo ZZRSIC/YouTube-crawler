@@ -1,1 +1,4 @@
 bilibili_video/
+
+# Local environment variables
+.env
